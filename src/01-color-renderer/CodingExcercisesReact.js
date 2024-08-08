@@ -279,3 +279,5 @@ export default function ToggleWindowEvent () {
     </div>
   )
 }
+
+// 7. Color picker
